@@ -1,3 +1,5 @@
+# https://oldschoolessentials.necroticgnome.com/srd/index.php/Scrolls_and_Maps
+
 $RandomScrollType = New-GenericList -ListType psobject
 
 $RandomScrollType.Add([pscustomobject]@{
